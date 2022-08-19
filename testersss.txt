@@ -26,6 +26,10 @@ Handling new web browsers and new pages
 
 it can function on firefox and chrome browser 
 
+please check on the new code i have uploded
+
+Kindly review it and merge it with your code.
+
 
 Newtesting
 
