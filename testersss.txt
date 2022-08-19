@@ -22,6 +22,10 @@ Top Testing Websites
 9> https://www.softwaretestinghelp.com/web-application-testing/
 10> 
 
+Handling new web browsers and new pages 
+
+it can function on firefox and chrome browser 
+
 
 Newtesting
 
